@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/countdown/static/css/main.a2515242.css",
+    "main.js": "/countdown/static/js/main.48ed5b70.js",
+    "static/media/test.jpg": "/countdown/static/media/test.dda458234681f9751587.jpg",
+    "static/media/bg-stars.svg": "/countdown/static/media/bg-stars.166881a1c03d6b1239f5dc4250bf85ad.svg",
+    "static/media/pattern-hills.svg": "/countdown/static/media/pattern-hills.815d688fd937623063b5c111be9fc999.svg",
+    "index.html": "/countdown/index.html",
+    "main.a2515242.css.map": "/countdown/static/css/main.a2515242.css.map",
+    "main.48ed5b70.js.map": "/countdown/static/js/main.48ed5b70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2515242.css",
+    "static/js/main.48ed5b70.js"
+  ]
+}
